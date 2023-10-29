@@ -1,0 +1,70 @@
+#header{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    color: gold;
+}
+
+.gold{
+    color: gold;
+
+}
+
+body{
+    background-color: white;
+}
+
+#description{
+    margin-left: 8%;
+    margin-right: 8%;
+    color: gold;
+    text-align: center;
+}
+
+#leftdiv{
+    margin-left: 8%;
+    width: 50%;
+    float: left;
+}
+
+#rightdiv{
+    margin-left: 60%;
+}
+
+.search{
+    margin-top: 7%;
+}
+
+#submit{
+    margin-left: 10%;
+}
+
+.commentsection{
+    margin-top: 5%;
+}
+#player-search, #commentarea{
+    border-color: gold;
+}
+
+#player-info{
+    margin-top: 2%;
+}
+#commentarea{
+    width: 500px;
+    height: 100px;
+}
+ 
+
+
+#commentstore{
+    margin-top: 5%;
+}
+
+#comstore{
+    width: 500px;
+    height: 400px;
+}
+
+#images{
+    width: 200px;
+}

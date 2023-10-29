@@ -1,0 +1,105 @@
+ {
+    "kopaTrophy":[
+    {
+        "img": "images/BELLINGHAM.jpg",
+        "name": "Jude Bellingham #20",
+        "position": "Midfielder #22",
+        "club": "Dortmund, England",
+        "achievements": "15 goals, 9 assists",
+        "like/vote": "0",
+        "dislike": "0",
+        "comment": ""
+    },
+    {
+        "img": "images/CAMAVINGA.jpg",
+        "name": "Camavinga #20",
+        "position": "Midfielder #20",
+        "club": "Real Madrid, France",
+        "achievements":"FIFA Club World Cup, Spanish Cup, UEFA Supercup, 2 assists",
+        "like/vote": "0",
+        "dislike": "0",
+        "comment": ""
+    },
+    {
+        "img": "images/GAVI.jpg",
+        "name": "Gavi #19",
+        "position": "Midfielder #6",
+        "club": "Barcelona, Spain",
+        "achievements": "La Liga, Spanish Super Cup, 3 goals, 7 assists",
+        "like/vote": "0",
+        "dislike": "0",
+        "comment": ""
+    },
+    {
+        "img": "images/hojlund.jpg",
+        "name": "Rasmus Hojlund #20",
+        "position": "Center-Foward #17",
+        "club": "Sturm Graz/Atalanta, Denmark",
+        "achievements": "SK Sturm Graz, 16 goals, 7 assists",
+        "like/vote": "0",
+        "dislike": "0",
+        "comment": ""
+    },
+    {
+        "img": "images/jamal_musiala.png",
+        "name": "Jamal Musiala #20",
+        "position": "Midfielder #42",
+        "club": "Bayern Munich, Germany",
+        "achievements": "Bundasliga, German Supper Cup, 16 goals, 16 assists",
+        "like/vote": "0",
+        "dislike": "0",
+        "comment": ""
+    },
+    {
+        "img": "images/pedri.jpg",
+        "name": "Pedri #20",
+        "position": "Midfielder #8",
+        "club": "Barcelona, Spain",
+        "achievements": "La Liga, Spanish Super Cup, 7 goals, 1 assist",
+        "like/vote": "0",
+        "dislike": "0",
+        "comment": ""
+    },
+    {
+        "img": "images/silva.jpg",
+        "name": "Antonio Silva #19",
+        "position": "Center Back #4",
+        "club": "Portugal, Benfica",
+        "achievements":"Liga Portugal, 5 goals",
+        "like/vote": "0",
+        "dislike": "0",
+        "comment": ""
+    },
+    {
+        "img": "images/simons.png",
+        "name": "Xavi Simons #20",
+        "position": "Attacking Midfielder/Right Winger #7",
+        "club": "Netherlands, PSV Eindhoven",
+        "achievements": "KNVB Cup, Johan Cruyff Shield, 22 goals, 12 assists",
+        "like/vote": "0",
+        "dislike": "0",
+        "comment": ""
+    },
+    {
+        "img": "images/wahi.png",
+        "name": "Elye Wahi #20",
+        "position": "Center-Foward #21",
+        "club": "France, Montpellier",
+        "achievements":"20 goals, 6 assists",
+        "like/vote": "0",
+        "dislike": "0",
+        "comment": ""
+    },
+    {
+        "img": "images/BALDE.jpg",
+        "name": "Alejandro Balde #20",
+        "position": "Left-Back #3",
+        "club": "Barcelona, Spain",
+        "achievements": "La Liga, Spanish Super Cup, 1 goal, 7 assists",
+        "like/vote": "0",
+        "dislike": "0",
+        "comment": ""
+    }
+   
+]
+ }
